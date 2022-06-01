@@ -1,0 +1,6 @@
+# CCLS cache.
+.ccls-cache
+# Compiled object files.
+*.o
+# st executable.
+st
